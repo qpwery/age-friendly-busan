@@ -5,7 +5,7 @@
 ## 고령친화 조성의 필요성
 
 ## 부산시 어르신 맞춤형 데이터
-1. [data.busan.customData](https://data.busan.go.kr/customData/list.nm?apitype=130)
+1. [customData](https://data.busan.go.kr/customData/list.nm?apitype=130)
 2.
 
 
