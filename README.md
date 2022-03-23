@@ -6,7 +6,6 @@
 
 ## 부산시 어르신 맞춤형 데이터
 1. [customData](https://data.busan.go.kr/customData/list.nm?apitype=130)
-2.
 
 
 # Header 1
