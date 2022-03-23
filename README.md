@@ -24,4 +24,4 @@ Create lists with a dash:
 Use back ticks to 
 create a block of code
 ```
-[^1]: Markdown is great.
+
